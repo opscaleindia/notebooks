@@ -1,2 +1,1 @@
-# notebooks
-Directory of interesting Jupyter notebooks
+Python and R notebooks
